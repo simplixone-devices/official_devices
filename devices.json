@@ -1,0 +1,31 @@
+[
+   {
+      "name":"Moto G5 Plus",
+      "brand":"Motorola",
+      "codename":"potter",
+      "supported_versions":[
+         {
+            "version_code":"oreo",
+            "version_name":"Oreo",
+            "maintainer_name":"Damyan Slavov (Dubzyr)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9190171",
+            "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-simplix-orange-1-7-2-t3819409",
+            "deprecated":true
+         }
+      ]
+   },
+   {
+      "name":"Mi A1",
+      "brand":"Xiaomi",
+      "codename":"tissot",
+      "supported_versions":[
+	       {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Nicola Nicolov (nicolasmart)",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=5824244",
+            "xda_thread":"https://forum.xda-developers.com/mi-a1/development/rom-simplix-blue-2-0-t3848759"
+         }
+      ]
+   },
+]
